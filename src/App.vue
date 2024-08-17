@@ -4,11 +4,11 @@
   </div>
 </template>
 
-<script>
+<script setup>
 import Posts from './components/Posts.vue';
-
-export default {
-  name: 'App',
-  components: { Posts },
-};
+const name = 'App';
+// export default {
+//   name: 'App',
+//   components: { Posts },
+// };
 </script>
