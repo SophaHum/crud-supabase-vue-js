@@ -5,10 +5,5 @@
 </template>
 
 <script setup>
-import Posts from './components/Posts.vue';
-const name = 'App';
-// export default {
-//   name: 'App',
-//   components: { Posts },
-// };
+import Posts from './components/Posts.vue'
 </script>

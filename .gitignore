@@ -23,7 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 # variable
-*.env
 *.env.example
 *.env.local
 *.env.staging
