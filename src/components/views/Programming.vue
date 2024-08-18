@@ -1,3 +1,8 @@
 <template>
-    <h1>Hello programming</h1>
+    <h1 class="text-3xl">Tonight learning laravel api</h1>
+
 </template>
+
+<script setup>
+
+</script>
