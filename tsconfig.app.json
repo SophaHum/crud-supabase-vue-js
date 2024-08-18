@@ -21,7 +21,11 @@
     "noFallthroughCasesInSwitch": true,
 
     /* Other options  */
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": ["*"]
+    }
   },
   "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue", "src/main.ts"]
 }

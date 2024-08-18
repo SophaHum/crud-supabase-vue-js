@@ -28,7 +28,7 @@
 </template>
 <script setup>
 import { onMounted, ref } from "vue";
-import { supabase } from "../supabase";
+import { supabase } from "../../supabase";
 
 const posts = ref([]);
 // new post get value from html attrubute
